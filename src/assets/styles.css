@@ -2,7 +2,6 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   display: flex;
-  display: flex;
 }
 
 .sidebar {
@@ -25,13 +24,12 @@ body {
 .sidebar a {
   color: white;
   text-decoration: none;
-  text-decoration: none;
 }
 
 .container {
-    flex: 1;
+  flex: 1;
   text-align: center;
-    padding: 20px;
+  padding: 20px;
 }
 
 form {
